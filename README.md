@@ -13,7 +13,7 @@ Clone the repo:
 Switch to the project directory to run the subsequent commands:
 
 ```
-cd sage-one
+cd /Users/nb41/Documents/GitHub/sage-one 
 ```
 
 ## Run the app locally
