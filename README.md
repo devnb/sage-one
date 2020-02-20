@@ -8,12 +8,12 @@ Sample PHP project that integrates with Sage Accounting via the Sage Accounting 
 
 Clone the repo:
 
-`git clone git@github.com:Sage/sageone_api_php_sample.git`
+`git clone git@github.com:devnb/sage-one.git`
 
 Switch to the project directory to run the subsequent commands:
 
 ```
-cd sageone_api_php_sample
+cd sage-one
 ```
 
 ## Run the app locally
